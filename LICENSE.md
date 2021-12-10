@@ -1,6 +1,6 @@
 ### Free Art License 1.3 (FAL 1.3)
 
-** This License covers only the files inside the [pt_BR](https://github.com/gladonias/shiro_stickers/tree/main/pt_BR) directory **
+**This License covers only the files inside the [pt_BR](https://github.com/gladonias/shiro_stickers/tree/main/pt_BR) directory. For licensing information on the remaining stickers, please refer to the [original repository](https://github.com/shiromarieke/shiro_stickers)**
 
 Preamble
 
